@@ -2,8 +2,8 @@
 <hr> <h1 align="center">Howdy 👋, Thanks For Comming 😍</h1> <hr>
 <h3>Web Developer | SEO | Freelancer | Android App Developer.  <h3/>
 <h4 align="center">I am always ready to have new experiences, meet new people and learn new things. I find the idea of creating value for people and impacting the world through my work gratifying.
-♦ I am a freelancer and I provide a services there like web developing, Software Developing, Content Writing, E-Commerce, with happy customer over 10K, Till now, I have served in 25 countries.
-♦ Apart from this, I am also a Wordpress and Drupal Developer and I have developed 10 projects using both CMS.
+<h4>♦ I am a freelancer and I provide a services there like web developing, Software Developing, Content Writing, E-Commerce, with happy customer over 10K, Till now, I have served in 25 countries.</h4>
+<h4>♦ Apart from this, I am also a Wordpress and Drupal Developer and I have developed 10 projects using both CMS.</h4>
 ♦ In addition, I know PHP and Python which helps me serve the real life of coding.
 ♦ And many more Skills I have like SEO, E-Commerce, Photoshop, Digital Marketing, MS-Office, Amazon AWS CCP, Microsoft Cognitive Tool Kit. I am very interested in AI & ML and it's amazing to learn about its applications in various fields like crime detection, predicting diseases like cancer and Parkinson's, use of Big Data to target ads, self driving cars, creation of unique art and music. I am proficient in Python.
 ✔ I love Web Development and , Android App Development and have made more than a 17+ websites and apps.
