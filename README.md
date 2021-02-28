@@ -4,11 +4,11 @@
 <h4 align="center">I am always ready to have new experiences, meet new people and learn new things. I find the idea of creating value for people and impacting the world through my work gratifying.
 <h4>♦ I am a freelancer and I provide a services there like web developing, Software Developing, Content Writing, E-Commerce, with happy customer over 10K, Till now, I have served in 25 countries.</h4>
 <h4>♦ Apart from this, I am also a Wordpress and Drupal Developer and I have developed 10 projects using both CMS.</h4>
-♦ In addition, I know PHP and Python which helps me serve the real life of coding.
-♦ And many more Skills I have like SEO, E-Commerce, Photoshop, Digital Marketing, MS-Office, Amazon AWS CCP, Microsoft Cognitive Tool Kit. I am very interested in AI & ML and it's amazing to learn about its applications in various fields like crime detection, predicting diseases like cancer and Parkinson's, use of Big Data to target ads, self driving cars, creation of unique art and music. I am proficient in Python.
-✔ I love Web Development and , Android App Development and have made more than a 17+ websites and apps.
-✔ I enjoy challenges that enable me to grow. I like to find application in what is taught to me and use Feynman and Pomodoro techniques to learn as quickly as possible.
-✔ Having lived all around the country and meeting a lot of people, I'm able to adapt to any surrounding or circumstance.</h4>
+<h4>♦ In addition, I know PHP and Python which helps me serve the real life of coding.</h4>
+<h4>♦ And many more Skills I have like SEO, E-Commerce, Photoshop, Digital Marketing, MS-Office, Amazon AWS CCP, Microsoft Cognitive Tool Kit. I am very interested in AI & ML and it's amazing to learn about its applications in various fields like crime detection, predicting diseases like cancer and Parkinson's, use of Big Data to target ads, self driving cars, creation of unique art and music. I am proficient in Python.</h4>
+<h4>✔ I love Web Development and , Android App Development and have made more than a 17+ websites and apps.</h4>
+<h4>✔ I enjoy challenges that enable me to grow. I like to find application in what is taught to me and use Feynman and Pomodoro techniques to learn as quickly as possible.</h4>
+<h4>✔ Having lived all around the country and meeting a lot of people, I'm able to adapt to any surrounding or circumstance.</h4></h4>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ankitjha-webdev&label=Profile%20views&color=0e75b6&style=flat" alt="ankitjha-webdev" /> </p>
 
