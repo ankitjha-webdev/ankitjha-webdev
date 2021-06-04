@@ -1,5 +1,5 @@
 [![Masterhead align="center"](https://raw.githubusercontent.com/ankitjha-webdev/ankitjha-webdev/main/I%20am%20a%20second%20year%20student%20pursuing%20Computer%20Science%20Engineering%20%40%20CENTURION%20UNIVERSITY%20OF%20TECHNOLOGY%20AND%20MANAGEMENT%2C%20Odisha%20Paralakhemundi%20Campus.-1.jpg)](https://ankitjha-webdev.github.io)
-<hr> <h1 align="center">Howdy, <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> Thanks For Comming. <img src="https://media1.tenor.com/images/2d4138c7c24d21b9d17f66a54ee7ea03/tenor.gif" width="30px"> 😍</h1> <hr>
+<hr> <h1 align="center">Howdy, <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> Thanks For Comming. <img src="https://media.tenor.com/images/47ab6fc99635b85b3ad943359a9d59e2/tenor.gif" width="60px"> 😍</h1> <hr>
 <h3>Web Developer | SEO | Freelancer | Android App Developer.  <h3/>
 <h4 align="center">I am always ready to have new experiences, meet new people and learn new things. I find the idea of creating value for people and impacting the world through my work gratifying.
 <h4>♦ I am a freelancer and I provide a services there like web developing, Software Developing, Content Writing, E-Commerce, with happy customer over 10K, Till now, I have served in 25 countries.</h4>
