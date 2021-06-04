@@ -29,8 +29,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left" target="_blank">
+  <a href="https://twitter.com/AnkitKu28468499" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/internetexplorer.svg" alt="coderbabuabhijha" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/ankitkumarcse" target="blank"><img align="center" style="color:red;" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="ankitkumarcse" height="30" width="40" /></a>
 <a href="https://instagram.com/coderbabuabhijha" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="coderbabuabhijha" height="30" width="40" /></a>
+ <a href="https://twitter.com/AnkitKu28468499" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="coderbabuabhijha" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
