@@ -1,18 +1,17 @@
 [![Masterhead align="center"](https://raw.githubusercontent.com/ankitjha-webdev/ankitjha-webdev/main/I%20am%20a%20second%20year%20student%20pursuing%20Computer%20Science%20Engineering%20%40%20CENTURION%20UNIVERSITY%20OF%20TECHNOLOGY%20AND%20MANAGEMENT%2C%20Odisha%20Paralakhemundi%20Campus.-1.jpg)](https://ankitjha-webdev.github.io)
-<hr><h1 align="center"> # [Howdy, <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> Thanks For Comming.] <img src="https://media.tenor.com/images/47ab6fc99635b85b3ad943359a9d59e2/tenor.gif" width="60px"></h1>
-[<img height="30" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />][twitter]
-[<img height="30" src = "https://img.shields.io/badge/Youtube-%23E4405F.svg?&style=for-the-badge&logo=Youtube&logoColor=white">][Youtube] 
-[<img height="30" src="https://img.shields.io/badge/linkedin-blue.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />][LinkedIn]
+<hr><h1 align="center"> Howdy, <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> Thanks For Comming. <img src="https://media.tenor.com/images/47ab6fc99635b85b3ad943359a9d59e2/tenor.gif" width="60px"></h1>
 <hr>
-<h3>Web Developer | SEO | Freelancer | Android App Developer.  <h3/>
-<h4 align="center">I am always ready to have new experiences, meet new people and learn new things. I find the idea of creating value for people and impacting the world through my work gratifying.
-<h4>♦ I am a freelancer and I provide a services there like web developing, Software Developing, Content Writing, E-Commerce, with happy customer over 10K, Till now, I have served in 25 countries.</h4>
+<h3> Web Developer | SEO | Data Science enthusiasts | Android App Developer.  <h3/>
+<h4 align="center"> I am always ready to have new experiences, meet new people and learn new things and colloratote with them. I find the idea of creating value for people and impacting the world through my work gratifying.
+<!-- <h4>♦ I am a freelancer and I provide a services there like web developing, Software Developing, Content Writing, E-Commerce, with happy customer over 10K, Till now, I have served in 25 countries.</h4> -->
 <h4>♦ Apart from this, I am also a Wordpress and Drupal Developer and I have developed 10 projects using both CMS.</h4>
 <h4>♦ In addition, I know PHP and Python which helps me serve the real life of coding.</h4>
-<h4>♦ And many more Skills I have like SEO, E-Commerce, Photoshop, Digital Marketing, MS-Office, Amazon AWS CCP, Microsoft Cognitive Tool Kit. I am very interested in AI & ML and it's amazing to learn about its applications in various fields like crime detection, predicting diseases like cancer and Parkinson's, use of Big Data to target ads, self driving cars, creation of unique art and music. I am proficient in Python.</h4>
-<h4>✔ I love Web Development and , Android App Development and have made more than a 17+ websites and apps.</h4>
+<h4>♦ And many more Skills I have like SEO, E-Commerce, Photoshop, MS-Office, Amazon AWS, CCP. I am enthusiasts in AI & ML and Data Science and it's amazing to learn about its applications in various fields like crime detection, predicting diseases like cancer and Parkinson's, use of Big Data to target ads, self driving cars, creation of unique art and music. I am proficient in Python.</h4>
+<h4>✔ I love Web Development and , Android App Development and have made some websites and apps.</h4>
 <h4>✔ I enjoy challenges that enable me to grow. I like to find application in what is taught to me and use Feynman and Pomodoro techniques to learn as quickly as possible.</h4>
-<h4>✔ Having lived all around the country and meeting a lot of people, I'm able to adapt to any surrounding or circumstance.</h4></h4>
+<h4>✔ Having lived all around the country and meeting a lot of people, I'm able to adapt to any surrounding or circumstance.</h4>
+  <h4>i love technology, and I want to excel in the field of data science. although for now I am just am amateur but aspire to become a data scientist in future. I like playing with data and currently working on population prediction model using python. i also have keen interest in mobile and web development which are becoming an integral part of everyone's life these days
+  </h4>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ankitjha-webdev&label=Profile%20views&color=0e75b6&style=flat" alt="ankitjha-webdev" /> </p>
 
