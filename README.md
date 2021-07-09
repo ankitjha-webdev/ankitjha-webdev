@@ -23,7 +23,7 @@
 
 - 💬 Ask me about **Web Development.**
 
-- 📫 How to reach me **190101120091@cutm.ac.in**
+- 📫 How to reach me **contact@ankitkumar.engineer**
 
 - 📄 Know about my experiences [https://ankitjha.me/Resume-Ankit--Kumar.pdf](https://ankitjha.me/Resume-Ankit--Kumar.pdf)
 
