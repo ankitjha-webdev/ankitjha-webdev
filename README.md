@@ -25,7 +25,7 @@
 
 - 📫 How to reach me **contact@ankitkumar.engineer**
 
-- 📄 Know about my experiences [https://ankitjha.me/Resume_Ankit_Kumar.pdf](https://ankitjha.me/Resume_Ankit_Kumar.pdf)
+- 📄 Know about my experiences [https://github.com/ankitjha-webdev/ankitjha-webdev/blob/main/Resume_Ankit_Kumar.pdf](https://github.com/ankitjha-webdev/ankitjha-webdev/blob/main/Resume_Ankit_Kumar.pdf)
   
 - 📄 My Portfolio website https://www.ankitkumar.engineer
 
