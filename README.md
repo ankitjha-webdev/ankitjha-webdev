@@ -27,15 +27,15 @@
 
 - 📄 Know about my experiences [https://ankitjha.me/Resume-Ankit--Kumar.pdf](https://ankitjha.me/Resume-Ankit--Kumar.pdf)
   
-- 📄 My Portfolio website [https://www.ankitkumar.engineer)
+- 📄 My Portfolio website https://www.ankitkumar.engineer
 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left" target="_blank">
   <a href="https://ankitkumar.codes" target="blank"><img align="center" src="https://img.icons8.com/fluent/48/000000/internet.png" alt="coderbabuabhijha" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/ankitkumarcse" target="blank"><img align="center" style="color:red;" src="https://img.icons8.com/color/48/000000/linkedin-2--v2.png" alt="ankitkumarcse" height="30" width="40" /></a>
-<a href="https://instagram.com/coderbabuabhijha" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="coderbabuabhijha" height="30" width="40" /></a>
- <a href="https://twitter.com/AnkitKu28468499" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="coderbabuabhijha" height="30" width="40" /></a>
+<a href="https://instagram.com/coderbabuabhijha" target="blank"><img align="center" src="https://img.icons8.com/cute-clipart/40/000000/instagram-new.png" alt="coderbabuabhijha" height="30" width="40" /></a>
+ <a href="https://twitter.com/ankitkumarcse1" target="blank"><img align="center" src="https://img.icons8.com/color/64/000000/twitter.png" alt="coderbabuabhijha" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
