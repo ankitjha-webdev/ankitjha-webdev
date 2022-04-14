@@ -1,7 +1,7 @@
 [![Masterhead align="center"](https://raw.githubusercontent.com/ankitjha-webdev/ankitjha-webdev/main/github_poster.gif)](https://ankitkumar.codes)
 <hr><h1 align="center"> Howdy, <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> Thanks For Comming. <img src="https://media.tenor.com/images/47ab6fc99635b85b3ad943359a9d59e2/tenor.gif" width="60px"></h1>
 <hr>
-<h2>Intrest in following </h2>
+<!-- <h2>Intrest in following </h2> -->
 <h3> Web Development | Backend Development|  SEO |  <h3/>
 <h4 align="center"> I am always ready to have new experiences, meet new people and learn new things and colloratote with them. I find the idea of creating value for people and impacting the world through my work gratifying.
 <!-- <h4>♦ I am a freelancer and I provide a services there like web developing, Software Developing, Content Writing, E-Commerce, with happy customer over 10K, Till now, I have served in 25 countries.</h4> -->
