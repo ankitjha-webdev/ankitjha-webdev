@@ -1,4 +1,4 @@
-[![Masterhead align="center"](https://raw.githubusercontent.com/ankitjha-webdev/ankitjha-webdev/main/github_poster.gif)](https://ankitkumar.codes)
+[![Masterhead align="center"](https://github.com/ankitjha-webdev/ankitjha-webdev/blob/main/github_poster.png)](https://ankitkumar.codes)
 <h1 align="center">Hi 👋, I'm Ankit Kumar </br> A student of Computer Science!</h1>
  <h2>Passionate About  : Full Stack Development</h2>
 
@@ -18,7 +18,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ankitjha-webdev" alt="ankitjha-webdev" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/ankitkumarcse1" target="blank"><img src="https://img.shields.io/twitter/follow/ankitkumarcse1?logo=twitter&style=for-the-badge" alt="ankitkumarcse1" /></a> </p>
-
+ <p align="center" style="margin-top:200px"> <img src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif" width="600px" height="300px" alt="ankitjha-webdev" /> </p>
 - 🔭 I’m currently working on **IOT Dashboard**
 
 - 🌱 I’m currently learning **Redis**
@@ -36,6 +36,7 @@
 - 📄 My Resume [https://github.com/ankitjha-webdev/ankitjha-webdev/blob/main/Resume_Ankit_Kumar.pdf](https://github.com/ankitjha-webdev/ankitjha-webdev/blob/main/Resume_Ankit_Kumar.pdf)
 
 - ⚡ Fun fact **I think I am funny**
+
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
