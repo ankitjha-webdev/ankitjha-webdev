@@ -1,5 +1,6 @@
 [![Masterhead align="center"](https://github.com/ankitjha-webdev/ankitjha-webdev/blob/main/github_poster.png)](https://ankitkumar.codes)
-<h1 align="center"> <img src="https://github.com/ankitjha-webdev/ankitjha-webdev/blob/main/output-onlinegiftools.gif" width="80px" height="80px" alt="ankitjha-webdev" />  Hi 👋, I'm Ankit Kumar </br> A student of Computer Science!</h1>
+
+<h1 align="center"> <img align="center" src="https://github.com/ankitjha-webdev/ankitjha-webdev/blob/main/output-onlinegiftools.gif" width="80px" height="80px" alt="ankitjha-webdev" />Hi 👋, I'm Ankit Kumar </br> A student of Computer Science!</h1>
  <h2>Passionate About  : Full Stack Development</h2>
 
 <h4 align="center"> I am always ready to have new experiences, meet new people and learn new things and colloratote with them. I find the idea of creating value for people and impacting the world through my work gratifying.
