@@ -1,4 +1,4 @@
-[![Masterhead align="center"](https://github.com/ankitjha-webdev/ankitjha-webdev/blob/main/github_poster (1280 × 550 px).png)](https://ankitkumar.codes)
+[![Masterhead align="center"](https://github.com/ankitjha-webdev/ankitjha-webdev/blob/main/github_poster%20(1280%20%C3%97%20550%20px).png)](https://ankitkumar.codes)
 
 <h1 align="center"> <img align="center" src="https://github.com/ankitjha-webdev/ankitjha-webdev/blob/main/output-onlinegiftools.gif" width="80px" height="80px" alt="ankitjha-webdev" />Hi 👋, I'm Ankit Kumar </br> A student of Computer Science!</h1>
  <h2>Passionate About  : Full Stack Development</h2>
