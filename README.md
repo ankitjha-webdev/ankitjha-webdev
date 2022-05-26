@@ -19,7 +19,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ankitjha-webdev" alt="ankitjha-webdev" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/ankitkumarcse1" target="blank"><img src="https://img.shields.io/twitter/follow/ankitkumarcse1?logo=twitter&style=for-the-badge" alt="ankitkumarcse1" /></a> </p>
- <p align="center" style="margin-top:200px"> <img src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif" width="600px" height="300px" alt="ankitjha-webdev" /> </p>
+ <p align="center" style="margin-top:200px"> <img src="https://github.com/ankitjha-webdev/ankitjha-webdev/blob/main/github.gif" width="600px" height="300px" alt="ankitjha-webdev" /> </p>
 - 🔭 I’m currently working on **IOT Dashboard**
 
 - 🌱 I’m currently learning **Redis**
