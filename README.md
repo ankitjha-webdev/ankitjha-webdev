@@ -73,3 +73,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ankitjha-webdev&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="ankitjha-webdev" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=ankitjha-webdev&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=1D1F21&border=2BBC8A&ring=2BBC8A&stroke=2BBC8A&fire=2BBC8A&currStreakNum=2BBC8A&sideNums=2BBC8A&currStreakLabel=C9CACC&sideLabels=C9CACC&dates=C9CACC" alt="ankitjha-webdev" /></p>
+ 
+<a href="http://www.github.com/ankitjha-webdev"><img src="https://activity-graph.herokuapp.com/graph?username=ankitjha-webdev&bg_color=1c1917&color=ffffff&line=2bbc8a&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
