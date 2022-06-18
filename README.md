@@ -3,7 +3,7 @@
 <h1 align="center"> <img align="center" src="https://github.com/ankitjha-webdev/ankitjha-webdev/blob/main/output-onlinegiftools.gif" width="80px" height="80px" alt="ankitjha-webdev" />Hi 👋, I'm Ankit Kumar </br> A student of Computer Science!</h1>
  <h2>Passionate About  : Full Stack Development</h2>
 
-<h4 align="center"> I am always ready to have new experiences, meet new people and learn new things and colloratote with them. I find the idea of creating value for people and impacting the world through my work gratifying.
+<h4> I am always ready to have new experiences, meet new people and learn new things and colloratote with them. I find the idea of creating value for people and impacting the world through my work gratifying.
 <!-- <h4>♦ I am a freelancer and I provide a services there like web developing, Software Developing, Content Writing, E-Commerce, with happy customer over 10K, Till now, I have served in 25 countries.</h4> -->
 <!-- <h4>♦ Apart from this, I am also a Wordpress and Drupal Developer and I have developed 10 projects using both CMS.</h4> -->
 <h4>♦ In addition, I know Java and Nodejs, Spring Boot which helps me serve the real life of coding.</h4>
