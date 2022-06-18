@@ -22,7 +22,7 @@ src="https://img.shields.io/github/followers/ankitjha-webdev?logo=github&style=f
 
 <p align="left"> <a href="https://twitter.com/ankitkumarcse1" target="blank"><img src="https://img.shields.io/twitter/follow/ankitkumarcse1?logo=twitter&style=for-the-badge" alt="ankitkumarcse1" /></a> </p>
  <p align="center" style="margin-top:200px"> <img src="https://github.com/ankitjha-webdev/ankitjha-webdev/blob/main/github.gif" width="600px" height="300px" alt="ankitjha-webdev" /> </p>
-- 🔭 I’m currently working on **IOT Dashboard**
+- 🔭 I’m currently working on Home Automation , Inventory Management System
 
 - 🌱 I’m currently learning **Redis**
 
