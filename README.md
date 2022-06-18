@@ -13,8 +13,10 @@
 <h4>✔ Having lived all around the country and meeting a lot of people, I'm able to adapt to any surrounding or circumstance.</h4>
   <h4>i love technology, and I want to excel in the field of data science. although for now I am just am amateur but aspire to become a data scientist in future. I like playing with data and currently working on population prediction model using python. i also have keen interest in mobile and web development which are becoming an integral part of everyone's life these days
   </h4>
+ <a href="https://www.github.com/ashish-devv" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/github/followers/ankitjha-webdev?logo=github&style=for-the-badge&color=2bbc8a&labelColor=1c1917" /></a>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ankitjha-webdev&label=Profile%20views&color=0e75b6&style=flat" alt="ankitjha-webdev" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ankitjha-webdev&label=Profile%20views&color=2bbc8a&style=for-the-badge" alt="ankitjha-webdev" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ankitjha-webdev" alt="ankitjha-webdev" /></a> </p>
 
