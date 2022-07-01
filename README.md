@@ -24,7 +24,7 @@ src="https://img.shields.io/github/followers/ankitjha-webdev?logo=github&style=f
  <p align="center" style="margin-top:200px"> <img src="https://github.com/ankitjha-webdev/ankitjha-webdev/blob/main/github.gif" width="600px" height="300px" alt="ankitjha-webdev" /> </p>
 - 🔭 I’m currently working on Home Automation , Inventory Management System
 
-- 🌱 I’m currently learning **Redis**
+- 🌱 I’m currently learning **Material-Ui**
 
 - 👨‍💻 All of my projects are available at [https://github.com/ankitjha-webdev](https://github.com/ankitjha-webdev)
 
@@ -32,11 +32,11 @@ src="https://img.shields.io/github/followers/ankitjha-webdev?logo=github&style=f
 
 - 💬 Ask me about **react,spring boot, figma**
 
-- 📫 How to reach me **contact@ankitkumar.engineer**
+- 📫 How to reach me **contact@ankitkumar.tech**
 
-- 📄 Know about my experiences [ankitkumar.engineer](ankitkumar.engineer)
+- 📄 Know more about my experiences [ankitkumar.tech](ankitkumar.tech)
 
-- 📄 My Resume [https://github.com/ankitjha-webdev/ankitjha-webdev/blob/main/Resume_Ankit_Kumar.pdf](https://github.com/ankitjha-webdev/ankitjha-webdev/blob/main/Resume_Ankit_Kumar.pdf)
+- 📄 My Resume [Click Here!](https://github.com/ankitjha-webdev/ankitjha-webdev/blob/main/Ankit_s_Resume.pdf)
 
 - ⚡ Fun fact **I think I am funny**
 
