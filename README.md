@@ -26,7 +26,7 @@ src="https://img.shields.io/github/followers/ankitjha-webdev?logo=github&style=f
 
 - 🌱 I’m currently learning **Material-Ui**
 
-- 👨‍💻 All of my projects are available at [https://github.com/ankitjha-webdev](https://github.com/ankitjha-webdev)
+- 👨‍💻 All of my projects are available at [https://github.com/ankitjha-webdev](https://github.com/ankitjha-webdev?tab=repositories)
 
 - 📝 I regularly write articles on [https://medium.com/@ankitkumarcse](https://medium.com/@ankitkumarcse)
 
