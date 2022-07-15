@@ -30,7 +30,7 @@ src="https://img.shields.io/github/followers/ankitjha-webdev?logo=github&style=f
 
 - 📝 I regularly write articles on [https://medium.com/@ankitkumarcse](https://medium.com/@ankitkumarcse)
 
-- 💬 Ask me about **react,spring boot, figma**
+- 💬 Ask me about **react, nodejs, spring boot, figma**
 
 - 📫 How to reach me **contact@ankitkumar.tech**
 
