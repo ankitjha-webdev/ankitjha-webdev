@@ -34,7 +34,7 @@ src="https://img.shields.io/github/followers/ankitjha-webdev?logo=github&style=f
 
 - 📫 How to reach me **contact@ankitkumar.tech**
 
-- 📄 Know more about my experiences [ankitkumar.tech](ankitkumar.tech)
+- 📄 Know more about my experiences [ankitkumar.tech](https://ankitkumar.tech/)](ankitkumar.tech)
 
 - 📄 My Resume [Click Here!](https://github.com/ankitjha-webdev/ankitjha-webdev/blob/main/Ankit_Resume.pdf)
 
