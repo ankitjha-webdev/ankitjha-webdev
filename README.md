@@ -4,11 +4,11 @@
  <h2>Passionate About  : Full Stack Development</h2>
 
 <h4> I am always ready to have new experiences, meet new people and learn new things and colloratote with them. I find the idea of creating value for people and impacting the world through my work gratifying.
-<!-- <h4>♦ I am a freelancer and I provide a services there like web developing, Software Developing, Content Writing, E-Commerce, with happy customer over 10K, Till now, I have served in 25 countries.</h4> -->
+<!-- <h4>♦ I am a freelancer and I provide a services there like web development, Software Development.</h4> -->
 <!-- <h4>♦ Apart from this, I am also a Wordpress and Drupal Developer and I have developed 10 projects using both CMS.</h4> -->
-<h4>♦ In addition, I know Java and Nodejs, ReactJs, Material-Ui, TailwindCss, MongoDB, Spring Boot which gives me a passion to become a professional Full Stack Developer.</h4>
+<h4>♦ In addition, I know Java and Nodejs, ExpressJs, ReactJs, Material-Ui, TailwindCss, MongoDB, MySql, Angular, TypeScript which gives me a passion to become a professional Full Stack Developer.</h4>
 <!-- <h4>♦ And many more Skills I have like SEO, E-Commerce, Photoshop, MS-Office, Amazon AWS, CCP. I am enthusiasts in Full Stcak Development and it's amazing to learn about its applications in various fields like crime detection, predicting diseases like cancer and Parkinson's, use of Big Data to target ads, self driving cars, creation of unique art and music. I am proficient in Python.</h4> -->
-<h4>✔ I love Web Development and , have developed some full stcak web apps.</h4>
+<h4>✔ I love Web Development and, have developed some full stcak web apps.</h4>
 <h4>✔ I enjoy challenges that enable me to grow. I like to find application in what is taught to me and use Feynman and Pomodoro techniques to learn as quickly as possible.</h4>
 <!-- <h4>✔ Having lived all around the country and meeting a lot of people, I'm able to adapt to any surrounding or circumstance.</h4> -->
   <h4>I love technology, and I want to excel in the field of Full Stack Development. although for now I am just am amateur but aspire to become a Software Engineer in future. I like development and currently working on Logistic Management System with NodeJs, ExpressJs, ReactJs, MongoDB. i also have keen interest in mobile and frontend development which are becoming an integral part of everyone's life these days
