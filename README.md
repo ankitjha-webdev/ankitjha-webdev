@@ -44,7 +44,7 @@ src="https://img.shields.io/github/followers/ankitjha-webdev?logo=github&style=f
 
 <!-- -  - 📄 Know more about my experiences [ankitkumar.tech](https://ankitkumar.tech/)](ankitkumar.tech)-->
 
-- 📄 My Resume [Click Here!](https://github.com/ankitjha-webdev/ankitjha-webdev/blob/main/Ankit_Resume.pdf)
+<!-- - - 📄 My Resume [Click Here!](https://github.com/ankitjha-webdev/ankitjha-webdev/blob/main/Ankit_Resume.pdf)-->
 
 <!-- -  - ⚡ Fun fact **I think I am funny** -->
 
