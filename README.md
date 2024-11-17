@@ -1,19 +1,27 @@
 <!-- [![Masterhead align="center"](https://github.com/ankitjha-webdev/ankitjha-webdev/blob/main/github_poster%20(1280%20%C3%97%20550%20px).png)](https://ankitkumar.codes)
  -->
-<h1 align="center">Hi 👋, I'm Ankit Kumar </br>A Software Engineer!</h1>
- <h2>Passionate About  : Full Stack Development</h2>
+<h1 align="center">Hi 👋, I'm Ankit Kumar </br>A Software Engineer Level II!</h1>
+<h2>Passionate About: Full Stack Development</h2>
 
-<h4> I am always ready to have new experiences, meet new people and learn new things and colloratote with them. I find the idea of creating value for people and impacting the world through my work gratifying.
-<!-- <h4>♦ I am a freelancer and I provide a services there like web development, Software Development.</h4> -->
-<!-- <h4>♦ Apart from this, I am also a Wordpress and Drupal Developer and I have developed 10 projects using both CMS.</h4> -->
-<h4>♦ In addition, I know Java and Nodejs, ExpressJs, ReactJs, Material-Ui, TailwindCss, MongoDB, MySql, Angular, TypeScript which gives me a passion to become a professional Full Stack Developer.</h4>
-<!-- <h4>♦ I am enthusiasts in Full Stcak Development and it's amazing to learn about its applications in various fields like crime detection, predicting diseases like cancer and Parkinson's, use of Big Data to target ads, self driving cars, creation of unique art and music. I am proficient in Python.</h4> -->
-<h4>✔ I love Web Development and, have developed some full stcak web apps.</h4>
-<h4>✔ I enjoy challenges that enable me to grow. I like to find application in what is taught to me and use Feynman and Pomodoro techniques to learn as quickly as possible.</h4>
-<!-- <h4>✔ Having lived all around the country and meeting a lot of people, I'm able to adapt to any surrounding or circumstance.</h4> -->
-  <h4>I love technology, and I want to excel in the field of Full Stack Development. although for now I am just am amateur but aspire to become a Software Engineer in future. I like development and currently working on Logistic Management System with NodeJs, ExpressJs, ReactJs, MongoDB. i also have keen interest in mobile and frontend development which are becoming an integral part of everyone's life these days
-  </h4>
- <a href="https://www.github.com/ashish-devv" target="_blank" rel="noreferrer"><img
+<h4 align="center">I am always ready to have new experiences, meet new people, and learn new things. I find the idea of creating value for people and impacting the world through my work gratifying.</h4>
+
+<h4>♦ I am proficient in Java, Node.js, Express.js, React.js, Material-UI, Tailwind CSS, MongoDB, MySQL, Angular, and TypeScript. My passion is to become a professional Full Stack Developer.</h4>
+<h4>✔ I love Web Development and have developed several full stack web apps.</h4>
+<h4>✔ I enjoy challenges that enable me to grow. I use Feynman and Pomodoro techniques to learn as quickly as possible.</h4>
+
+<h4>
+ As a dedicated Software Engineer with over a year of hands-on experience in the software industry, I have honed my skills in full-stack web development, with a particular focus on creating robust, scalable, and secure web applications. My technical expertise lies in leveraging modern frameworks and technologies such as Angular, React.js, and Node.js to deliver high-quality software solutions that meet and exceed the dynamic needs of businesses.
+
+My journey began with a strong educational foundation in Computer Science, where I not only excelled academically but also actively contributed to the tech community through leadership roles in coding clubs and as a HackEarth Campus Ambassador. This blend of academic rigor and practical involvement has instilled in me a deep understanding of both the theoretical and practical aspects of software development.
+
+In my professional role at OdiTek Solutions, I have been instrumental in developing and implementing various features in Angular web applications, ensuring adherence to best practices and coding standards. My commitment to excellence was recognized through commendations for delivering high-quality work within tight deadlines.
+
+I thrive in environments that challenge my problem-solving abilities and allow me to contribute to the team's success. Whether it's fixing a complex bug that checks password strength or designing and implementing role-based authentication REST API for User Management, I approach every task with a blend of analytical thinking and creative innovation.
+
+I am passionate about continuous learning and growth, always seeking to stay ahead of the curve in the ever-evolving tech landscape. As I continue to build my career, I am eager to connect with like-minded professionals and explore opportunities where I can contribute my skills in full-stack development and make a significant impact.
+</h4>
+
+ <a href="https://www.github.com/ankitjha-webdev" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/ankitjha-webdev?logo=github&style=for-the-badge&color=2bbc8a&labelColor=1c1917" /></a>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ankitjha-webdev&label=Profile%20views&color=2bbc8a&style=for-the-badge" alt="ankitjha-webdev" /> </p>
@@ -22,23 +30,23 @@ src="https://img.shields.io/github/followers/ankitjha-webdev?logo=github&style=f
 
 <p align="left"> <a href="https://twitter.com/ankitkumarcse1" target="blank"><img src="https://img.shields.io/twitter/follow/ankitkumarcse1?logo=twitter&style=for-the-badge" alt="ankitkumarcse1" /></a> </p>
  <p align="center" style="margin-top:200px"> <img src="https://github.com/ankitjha-webdev/ankitjha-webdev/blob/main/github.gif" width="600px" height="300px" alt="ankitjha-webdev" /> </p>
-- 🔭 I’m currently working on Home Automation , Inventory Management System
+<!-- - 🔭 I’m currently working on , Inventory Management System -->
 
-- 🌱 I’m currently learning **Angular and RSJX**
+- 🌱 I’m currently learning **team management skills**
 
 - 👨‍💻 All of my projects are available at [https://github.com/ankitjha-webdev](https://github.com/ankitjha-webdev?tab=repositories)
 
-- 📝 I regularly write articles on [https://medium.com/@ankitkumarcse](https://medium.com/@ankitkumarcse)
+<!-- - - 📝 I regularly write articles on [https://medium.com/@ankitkumarcse](https://medium.com/@ankitkumarcse)-->
 
 - 💬 Ask me about **JavaScript, ReactJs, NodeJs, ExpressJs, Angular, MySql, MongoDb, figma**
 
-- 📫 How to reach me **contact@ankitkumar.tech**
+- 📫 How to reach me **ankitkumarcse.hotmail.com**
 
-- 📄 Know more about my experiences [ankitkumar.tech](https://ankitkumar.tech/)](ankitkumar.tech)
+<!-- -  - 📄 Know more about my experiences [ankitkumar.tech](https://ankitkumar.tech/)](ankitkumar.tech)-->
 
 - 📄 My Resume [Click Here!](https://github.com/ankitjha-webdev/ankitjha-webdev/blob/main/Ankit_Resume.pdf)
 
-- ⚡ Fun fact **I think I am funny**
+<!-- -  - ⚡ Fun fact **I think I am funny** -->
 
 
 ### Blogs posts
